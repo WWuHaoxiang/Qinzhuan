@@ -1,2 +1,2 @@
-# Qingzhuan
-A translation from qingzhuan to mandarin
+# Qinzhuan
+A translation from qinzhuan to mandarin
